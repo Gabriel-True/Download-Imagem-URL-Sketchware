@@ -57,3 +57,9 @@ A primeira variável string se chamará "wall"
  ![Print 8](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131359.png)
  
  No bloco "Obter Chave Extra", coloque a chave "foto". E no bloco "Definir string para" coloque o caminho como "/Wallpapers" ou o que preferir. Mas lembre-se de seguir a lógica da foto acima. Agora marque todas as strings e espaços como "wall", como mostra na foto.
+ 
+ ## :bulb: onClick Button:
+ 
+ ### Agora na onClick do Button faça a seguinte lógica:
+ 
+ ![Print 12](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131453.png)
