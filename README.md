@@ -63,3 +63,11 @@ A primeira variável string se chamará "wall"
  ### Agora na onClick do Button faça a seguinte lógica:
  
  ![Print 12](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131453.png)
+ 
+ Adicione o moreblock que você baixou. Coloque o bloco "Obter Chave Extra" e coloque como "foto". No outro espaço marque como "wall". 
+ 
+ Agora adicione mais um bloco embaixo do moreblock, coloque o bloco "definir string para" e adicione o bloco "Obter Chave Extra" e escreva a chave como "foto". Marque a string do segundo bloco como "string". Faça do mesmo jeito que a imagem acima.
+ 
+ ### :smiley_cat: Pronto, agora compile o projeto e veja como ficou. 
+ 
+
