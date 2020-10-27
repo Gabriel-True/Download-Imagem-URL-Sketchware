@@ -70,9 +70,9 @@ A primeira variável string se chamará "wall"
  
  ### :smiley_cat: Pronto, agora compile o projeto e veja como ficou. 
  
- ##### :bust_in_silhouette: Feito com  :heart:  por:
  
- [ Gabriel Soares ](https://github.com/Gabriel-True) 
+ 
+ 
 
 
 
