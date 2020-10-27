@@ -72,7 +72,7 @@ A primeira variável string se chamará "wall"
  
  ##### :bust_in_silhouette: Feito com  :heart:  por:
  
- [<img src="https:<sub> Gabriel Soares </sub>](https://github.com/Gabriel-True) 
+ [ Gabriel Soares ](https://github.com/Gabriel-True) 
 
 
 
