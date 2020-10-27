@@ -15,7 +15,7 @@ Fazer o download de uma imagem via URL pelo Sketchware
 
 ![Print 2](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-130253.png)
 
-## :iphone: Tela 1. main.xml
+## :iphone: Tela 1. main.xml:
 
 ### Na primeira tela colocaremos uma linear e um button. como na imagem:
 
@@ -36,3 +36,7 @@ Agora marque os blocos.
 ### Faça como na imagem:
 
 ![Print 5](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-145935.png)
+
+## :iphone: Tela 2. tela_2.xml:
+
+
