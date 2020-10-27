@@ -42,3 +42,12 @@ Agora marque os blocos.
 ### Na segunda tela colocaremos uma linear, um button e uma imageview. como na imagem:
 
 ![Print 6](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131137.png)
+
+### Agora na onCreate adicionaremos duas variáveis strings.
+
+A primeira variável string se chamará "wall"
+ e a segunda "string".
+ 
+### Agora faça a seguinte lógica:
+ 
+ ![Print 8](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131359.png)
