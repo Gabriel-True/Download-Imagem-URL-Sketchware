@@ -13,3 +13,24 @@ Fazer o download de uma imagem via URL pelo Sketchware
 
 ![Print 2](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-130253.png)
 
+## :iphone: Tela 1. main.xml
+
+### Na primeira tela colocaremos uma linear e um button. como na imagem:
+
+![Print 3](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131125.png)
+
+### Na onClick do Button adicionaremos um componente Intent. Como mostra na imagem:
+
+![Print 4](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-130116.png)
+
+### Agora colocaremos os seguintes blocos:
+
+1. Intent Definir Tela ( Marque a tela 2).
+2. Intent Colocar Chave Extra Valor ( Na chave coloque como "foto" e no valor coloque o link da imagem).
+3. Intent Iniciar Atividade.
+
+Agora marque os blocos
+
+### Faça como na imagem:
+
+![Print 5](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-145935.png)
