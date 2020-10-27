@@ -70,6 +70,8 @@ A primeira variável string se chamará "wall"
  
  ### :smiley_cat: Pronto, agora compile o projeto e veja como ficou. 
  
- [<img src="https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/IMG_20201020_170359.png" width=115 > <br> <sub> Gabriel Soares </sub>](https://github.com/Gabriel-True)
+ [<img src="https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/IMG_20201020_170359.png" width=115 > <br> <sub> Gabriel Soares </sub>](https://github.com/Gabriel-True) |
+
+| :---: |  
 
 
