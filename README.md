@@ -48,6 +48,8 @@ Agora marque os blocos.
 A primeira variável string se chamará "wall"
  e a segunda "string".
  
+ ![Print 10](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-130648.png)
+ 
 ### Agora faça a seguinte lógica:
  
  ![Print 8](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131359.png)
