@@ -7,6 +7,8 @@ Fazer o download de uma imagem via URL pelo Sketchware
 
 ![Print 1](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-145804.png)
 
+## :page_facing_up: Tutorial: 
+
 ### Agora criaremos mais uma tela. Essa tela vai se chamar: "tela_2".
 
 ### Faça como na imagem:
@@ -29,7 +31,7 @@ Fazer o download de uma imagem via URL pelo Sketchware
 2. Intent Colocar Chave Extra Valor ( Na chave coloque como "foto" e no valor coloque o link da imagem).
 3. Intent Iniciar Atividade.
 
-Agora marque os blocos
+Agora marque os blocos.
 
 ### Faça como na imagem:
 
