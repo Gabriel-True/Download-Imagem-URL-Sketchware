@@ -56,4 +56,4 @@ A primeira variável string se chamará "wall"
  
  ![Print 8](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131359.png)
  
- No bloco "Obter Chave Extra, coloque a chave "foto". E no bloco Definir string para
+ No bloco "Obter Chave Extra", coloque a chave "foto". E no bloco "Definir string para
