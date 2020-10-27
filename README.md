@@ -39,4 +39,6 @@ Agora marque os blocos.
 
 ## :iphone: Tela 2. tela_2.xml:
 
+### Na segunda tela colocaremos uma linear, um button e uma imageview. como na imagem:
 
+![Print 6](https://github.com/Gabriel-True/Download-Imagem-URL-Sketchware/blob/main/Screenshot_20201027-131137.png)
